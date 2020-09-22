@@ -1,6 +1,6 @@
 # Hi, I'm Kelley 👋
 
-I'm a Junior Full Stack Developer in the Greater Nashville Area.
+I'm a Junior Full Stack Software Developer in the Greater Nashville Area.
 
 - 💾 Skills: Javascript, React.js, HTML, CSS
 - 🤯 Currently learning C# and .NET
