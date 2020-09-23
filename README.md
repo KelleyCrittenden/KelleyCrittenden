@@ -10,7 +10,7 @@ I'm a Junior Full Stack Software Developer in the Greater Nashville Area.
 
 ## Find me around the web 🌎 
 - 🏡 Website: 
-- 💻 LinkedIn: https://www.linkedin.com/in/kelleycrittenden/
+- 💻 LinkedIn: [linkedin.com/kelleycrittenden](https://www.linkedin.com/in/kelleycrittenden/)
 - 📭 Email: KelleyLCrittenden@gmail.com
 
 
