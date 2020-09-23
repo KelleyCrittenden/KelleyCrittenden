@@ -1,5 +1,6 @@
+<img align="right" src="https://github.com/KelleyCrittenden/KelleyCrittenden/blob/master/Female-Developer.jpg" alt="Software Developer Avatar" width=465px height=465px/>
+
 # Hi, I'm Kelley 👋
-[!KelleyCrittenden.](https://res.cloudinary.com/kelleycrittenden/image/upload/v1600867689/Female-Developer_wfbzpp.jpg)
 
 I'm a Junior Full Stack Software Developer in the Greater Nashville Area.
 
