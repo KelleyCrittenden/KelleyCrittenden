@@ -4,8 +4,8 @@
 
 I'm a Junior Full Stack Software Developer in the Greater Nashville Area.
 
-- 💾 Skills: Javascript, React.js, HTML, CSS
-- 🤯 Currently learning C# and .NET
+- 💾 Skills: Javascript, React.js, HTML, CSS, C#, .NET
+- 🤯 Currently learning AWS
 
 
 ## Find me around the web 🌎 
